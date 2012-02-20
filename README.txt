@@ -1,0 +1,1 @@
+Simple WordPress plug-in that cleans single blog posts for clipping to Instapaper.
