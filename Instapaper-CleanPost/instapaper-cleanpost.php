@@ -5,7 +5,7 @@ Plugin URI: http://www.simoncoopey.net/wordpress/plugins/instapaper-formatter/
 Description: Formats blog posts so that they appear correctly in Instapaper
 Version: 0.3.1
 Author: Simon Coopey
-Author URI: http://www.simoncoopey.com/
+Author URI: http://www.simon.coopey.net/
 License: GPL3.0 | http://www.gnu.org/licenses/gpl-3.0.html
 */
 
